@@ -1,0 +1,28 @@
+{
+    "数组":"<li class=\"col-md-6 col-sm-4 col-xs-3\">&&</li>",
+    
+    "标题":"title=\"&&\"",
+    
+    "副标题":"🐬天马行空接口🐬+pic-text text-right\">&&</span>",
+    
+    "图片":"data-original=\"&&\"",
+    
+    "链接":"href=\"&&\"", 
+  
+     
+    "线路数组": "#playlist&&/li>",
+    
+    "线路标题": "🐬天马行空接口🐬+>&&</a>",
+    
+    "播放数组": "<ul class=\"stui-content__playlist clearfix column8\">&&</ul>",
+    
+    "播放标题": "🐬天马行空🐬+>&&</a>",
+    
+    
+    "简介": "【天马行空】提醒您请勿相信影片中的广告，以免上当受骗！+none;\">&&</span>",
+    
+    "分类url":"http://www.ruiyicn.com/show/{cateId}--------{catePg}---{year}.html",
+    
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$36"
+
+}
