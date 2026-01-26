@@ -1,0 +1,9 @@
+{
+//分类id---地区--排序-剧情----翻页-----时间-语言
+//{cateId}-{area}-{by}-{class}-{catePg}-{year}{lang}
+"站名": "pipaniu",
+"主页url":"https://www.papiniu.com/",
+"分类": "电影&剧集&动漫&综艺",
+"分类值": "1&2&4&3",
+"分类url": "//https://www.papiniu.com/index.php/vod/show/area/{area}/id/{cateId}/year/{year}.html"
+}
