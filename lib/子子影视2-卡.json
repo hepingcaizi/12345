@@ -1,0 +1,19 @@
+{
+"站名":"子子影视，星空影视",
+"主页url":"http://bjwdsd.cn/bj/2-2.html",
+ // "起始页":"2",
+"数组": "<li&&</li>[包含:href=\"/wd/#data-original=]",
+"标题": "title=\"&&\"",
+"图片": "data-original=\"&&\"",
+"链接":"href=\"&&\"",
+
+
+"分类":"电影$1#连续剧$2#动漫$4#综艺$3",
+"分类url": "http://bjwdsd.cn/search.php?searchtype=5&tid={cateId}&area={area}&year={year}"
+}
+
+//<div class="title">
+//{cateId}-{area}-{by}-{class}-{catePg}-{year}{lang}
+//https://qqqys.com/vodshow/3/2.html?area=%E5%A4%A7%E9%99%86&year=2023
+
+   //"分类url": "https://juok.cc/category/tv?page=2&area={area}&year={year}"

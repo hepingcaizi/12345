@@ -1,0 +1,8 @@
+ {
+"站名": "🏭影视工厂🏭",
+"搜索url": "https://yingshi.co/vodsearch/-------------.html?wd={wd}",
+"倒序": "",
+//"主页url":"https://yingshi.co/",
+"分类":"电影$dianying#连续剧$dianshiju#动漫$dongmai#综艺$zongyi",
+"分类url": "https://yingshi.co/vodtype/{cateId}.html"
+}
