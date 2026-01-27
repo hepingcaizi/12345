@@ -82,7 +82,18 @@
       "ext": "./lib/永乐影视.json" },
 
 
-
+		{
+			"key": "聚合短剧",
+			"name": "聚合短剧",
+			"type": 3,
+			"api": "https://gitee.com/dongge86/files/raw/master/lib/%E8%81%9A%E5%90%88%E7%9F%AD%E5%89%A7.js",
+            //"jar": " ",
+			"style": {
+				"type": "rect",
+				"ratio": 1.33
+			},
+			"changeable": 1
+		},
 
 
     {
