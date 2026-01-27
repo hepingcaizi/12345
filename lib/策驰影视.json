@@ -1,0 +1,18 @@
+{
+    
+"作者":"龙虎山老天师",
+"站名":"浪策驰影院",
+"主页url":"https://www.ccuv6.com/",
+"简介":"【老天师】提醒您请勿相信广告，以免上当！+description\" content=\"&&\">", 
+"搜索url":"https://www.ccuv6.com/search/?wd={wd}",
+"搜索数组":"sm-4 col-xs-3&&</span>",
+//"搜索图片":"data-original=\"&&\"",
+
+"分类": "电影&剧集&动漫&综艺",
+"分类值": "film&tv&cartoon&variety",
+//分类id---地区--排序-剧情----翻页-----时间-语言
+//{cateId}-{area}-{by}-{class}-{catePg}-{year}{lang}
+
+"分类url": "https://www.ccuv6.com/cid_{cateId}/{class}_{area}_{year}__{catePg}.html"
+//看剧网http://waps.bjzknj.com/
+}
