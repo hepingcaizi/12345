@@ -1,5 +1,5 @@
 {
-    "作者": "https://github.com/FEIUI/tvbox/commit/b553bf97d7c3fc04f7ea09dcee79ce36a89ba168#diff-1942db9ffc8999fed051a1cfb5970166950eaca9c6cbef1e05024fff65dfb6e9",
+    "作者": "",
     "站名": "明星优质埃及影院",
 	"发布页": "发布页uzvod.com  https://hrvod.com https://yevod.com  https://quvod.com     https://bsvod.com",
 	//MXVOD 明星影院-在线电影-mxvid.com  https://ucvod.com  https://yevod.com  https://quvod.com  https://hrvod.com
@@ -31,7 +31,7 @@
     "导演": "导演：&&</div>",
     "主演": "主演：&&\">",
     "简介": "vod_content\"&&</div>",
-    "线路数组": "data-dropdown&&/small>",
+    "线路数组": "data-dropdown&&/small>[替换:推荐>>空]",
     "线路标题": "value=\"&&\"+【共+<small>&&<+集】",
     "播放数组": "id=\"sort-item&&</div>",
     "播放列表": "<a&&/a>",
