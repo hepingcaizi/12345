@@ -25,6 +25,8 @@
 
 {"key": "TV云","name": "🎈️TV云影┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/TV云.json"},
 
+{"key": "多多影院app","name": "🎈多多影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/多多.json"},
+
 
 {"key": "影视工厂🏭","name": "🎈️搜索工厂 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/影视工厂.json"},
 
