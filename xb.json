@@ -15,8 +15,8 @@
 {"key": "麦田影院app","name": "🎈老天师影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/麦田秒播.json"},
 
 {"key": "明星优质埃及影院","name": "🎈明星影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/麦田秒播.json"},
-
-
+{"key": "樱花app","name": "🎈樱花动漫 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/樱花动漫.json"},
+{"key": "界影视","name": "🎈界影视 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/界影视.json"},
 {"key": "三三影视","name": "🎈️三三影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/三三影视.json"},
 
 {"key": "麒麟云","name": "🎈️麒麟影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/麒麟影视.json"},
