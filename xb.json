@@ -16,6 +16,8 @@
 
 {"key": "明星优质埃及影院","name": "🎈明星影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/麦田秒播.json"},
 
+{"key": "修罗磁力","name": "🎈修罗影院 | 磁力秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/修罗影视dm.json"},
+
 {"key": "樱花app","name": "🎈樱花动漫 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/樱花动漫.json"},
 
 {"key": "哆啦app","name": "🎈哆啦a梦 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/哆啦新番社.json"},
