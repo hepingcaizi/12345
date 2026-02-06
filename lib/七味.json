@@ -1,0 +1,21 @@
+{
+
+        "站名": "七味",
+		"地址发布页": "https://www.qn63.com永久地址：https://www.qmp4.com(需科学上网) https://www.gmp4.com(需科学上网)",
+		"最新地址": "https://www.qwnull.comhttps://www.qwmkv.com,https://www.qwfilm.comhttps://www.qnmp4.com",
+		"请求头": "User-Agent$Mozilla/5.0",
+        "数组": "li-img\">-->&&</a>",
+        "图片": "src=\"&&\"",
+        "标题": "title=\"&&\"",
+        "副标题": "</i>&&</span>",
+        "链接": "href=\"&&\"",
+        "简介": "description\" content=&&\"",
+        //"搜索url": "https://www.qwfilm.com/vs/-------------.html?wd={wd}",
+        //"搜索模式": "1",
+        "播放数组": "player ckp gdt bf-w&&</ul>",
+        "播放列表": "<li>&&</li>",
+        "播放标题": ">&&</a",
+        "播放链接": "href=\"&&\"",
+        "分类url": "https://www.qwfilm.com/ms/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;d0",
+	    "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$5"
+      }
