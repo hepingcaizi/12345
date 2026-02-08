@@ -1,6 +1,22 @@
 {
 "spider": "./yt内置.jar",
 //"spider": "./xbpq.jar",
+
+
+"headers": [
+    {
+      "host": "www.gs4x7nq4.com",
+      "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.6261.95 Safari/537.36"}
+ },
+		 {
+      "host": "brand.hinrijv.cc",
+      "header": {"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/jpg,image/webp,image/apng,*/*;q=0.8"}
+ 
+        	}
+
+  ],
+
+
 "sites": [
 // 分类 ++
 // 修复所有分类的第一个 detail内容为空
