@@ -77,7 +77,10 @@
 
 
 {"key": "浪策驰影院","name": "🎈️浪策驰影院┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/策驰影视.json"},
-	
+
+{"key": "vip影视","name": "🎈️vip影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VIP电影.json"},
+
+
 {"key": "fyyy","name": "飞宇影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,
 "ext": {
 "分类url": "http://ntfeiyu.com/nt/{cateId}-{catePg}.html",
@@ -143,12 +146,6 @@
       "ext": "./lib/1080.json"  },
     
 
-    {
-      "key": "伪freeok",
-      "name": "🎈freeok┃T爽剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "ext": "./lib/伪freeok.json" },
 
     {
       "key": "韩剧看看",
