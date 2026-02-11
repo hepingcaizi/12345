@@ -8,6 +8,7 @@
 "副标题":"text-row-1\">&&</",
 //应该是提取第一个值
 "链接":"href=\"&&\"",
+"简介": "description\" content=\"&&>",
 
 "搜索":"https://ouletv.cc/tag/page/{catePg}/wd/{wd}/",
 "搜索模式":"1",
