@@ -30,13 +30,13 @@
 
 {"key": "麦田影院app","name": "🎈老天师影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/麦田秒播.json"},
 
-{"key": "明星优质埃及影院","name": "🎈明星影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/麦田秒播.json"},
+{"key": "明星优质埃及影院","name": "🎈明星影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/明星优质埃及影院.json"},
 
 {"key": "欧乐影视","name": "🎈欧乐影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/欧乐影视.json"},
 
 {"key": "CNN影视","name": "🎈CNN影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/CNN影视.json"},
 
-{"key": "修罗磁力","name": "🎈修罗影院 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/修罗影院.json"},
+{"key": "修罗磁力","name": "🎈修罗影院 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/修罗影视dm.json"},
 
 
 {"key": "来看影视","name": "🎈来看影视 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/来看影视.json"},
