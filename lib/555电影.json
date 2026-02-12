@@ -14,7 +14,7 @@
 "搜索url":"https://www.555yy6.com/vodsearch/{wd}----------{pg}---.html",
 "搜索模式": "1",
 "搜索数组":"module-item\">&&</a>",
-"搜索图片":"data-original=\"&&\"",
+"搜索图片":"data-original=\"*amp;&&\"[替换:src=>>https://]",
 "搜索标题":"alt=\"&&\"",
 "搜索链接":"href=\"&&\"",
 "搜索副标题":"note\">&&</div>",
