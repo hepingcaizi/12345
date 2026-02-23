@@ -49,8 +49,6 @@
 
 {"key": "三三影视","name": "🎈️三三影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/三三影视.json"},
 
-{"key": "麒麟云","name": "🎈️麒麟影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/麒麟影视.json"},
-
 {"key": "Fr农民s","name": "🎈️农民影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/农民影视.json"},
 
 {"key": "TV云","name": "🎈️TV云影┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/TV云.json"},
