@@ -83,6 +83,8 @@
 
 {"key": "vip影视","name": "🎈️vip影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VIP电影.json"},
 
+{"key": "啊哈DJ网","name": "🎈️啊哈DJ网|秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/啊哈DJ网.json"},
+
 
 {"key": "fyyy","name": "🎈️飞宇影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,
 "ext": {
