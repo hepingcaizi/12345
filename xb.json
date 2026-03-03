@@ -83,10 +83,12 @@
 
 {"key": "vip影视","name": "🎈️vip影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VIP电影.json"},
 
-{"key": "100听书","name": "🎈️100听书|秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/100听书.json"},
+{"key": "100听书","name": "☀100听书|秒播☀","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/100听书.json"},
 
 
-{"key": "啊哈DJ网","name": "🎈️啊哈DJ网|秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/啊哈DJ网.json"},
+{"key": "啊哈DJ网","name": "☀啊哈DJ网|秒播☀","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/啊哈DJ网.json"},
+
+{"key": "聚合短剧","name": "☀聚合短剧☀","type": 3,"api": "https://gitee.com/dongge86/files/raw/master/lib/%E8%81%9A%E5%90%88%E7%9F%AD%E5%89%A7.js","style":"type": "rect","ratio": 1.33},"changeable": 1},
 
 
 {"key": "fyyy","name": "🎈️飞宇影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,
@@ -95,52 +97,12 @@
 "分类": "电影$1#电视剧$2#综艺$3#动漫$4"},
 "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
-    {
-      "key": "🍙饭团",
-      "name": "🎈️饭团影视┃T爽剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/饭团影视.json"},
-     
 
+{"key": "🍙饭团","name": "🎈️饭团影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/饭团影视.json"},
 
-    {
-      "key": "永乐",
-      "name": "🎈️永乐影视┃app爽剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/永乐影视.json" },
+{"key": "永乐","name": "🎈️永乐影视┃app爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/永乐影视.json"},
 
-
-		{
-			"key": "聚合短剧",
-			"name": "☀聚合短剧☀",
-			"type": 3,
-			"api": "https://gitee.com/dongge86/files/raw/master/lib/%E8%81%9A%E5%90%88%E7%9F%AD%E5%89%A7.js",
-            //"jar": " ",
-			"style": {
-				"type": "rect",
-				"ratio": 1.33
-			},
-			"changeable": 1
-		},
-
-
-    {
-      "key": "vs",
-      "name": "🎈️vs影视┃T爽剧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/VS影视.json"  },
+{"key": "vs","name": "🎈️vs影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VS影视.json"},
 
     
         {
