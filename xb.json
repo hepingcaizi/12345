@@ -83,6 +83,9 @@
 
 {"key": "vip影视","name": "🎈️vip影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VIP电影.json"},
 
+{"key": "100听书","name": "🎈️100听书|秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/100听书.json"},
+
+
 {"key": "啊哈DJ网","name": "🎈️啊哈DJ网|秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/啊哈DJ网.json"},
 
 
