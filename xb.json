@@ -72,7 +72,7 @@
 {"key": "O乐影视","name": "🎈️O乐影视┃app爽剧 ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/O乐影视.json" },
 
 
-{"key": "🎈️1080┃T爽剧","name": "🎈️1080┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/1080.json.json" },
+{"key": "🎈️1080┃T爽剧","name": "🎈️1080┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/1080.json" },
 
 
 {"key": "多瑙影院app","name": "🎈️多瑙影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/多瑙影院.json"},
