@@ -4,6 +4,8 @@
 
 https://gitee.com/dongge86/xb/raw/master/xb.json
 
+https://gitea.lihaso.com/dong/xb/src/branch/master/xb.json
+
 https://git.rongxin.tech/dong/xb/raw/master/xb.json
 
 http://hualiyun.cc:3568/dong/xb/raw/master/xb.json
