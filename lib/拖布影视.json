@@ -11,7 +11,8 @@
 	
 	"搜索url": "https://www.rainvi.com/index.php/vod/search/page/{catePg}/wd/{wd}.html",
 	
-
+    "线路数组": "=\"\\#\\#\"&&/a>",
+    "线路标题": "🦊专线+>&&<",
 	
     "简介": "description\" content=\"&&\"",
     "分类url": "https://www.rainvi.com/index.php/vod/show/id/{cateId}/page/{catePg}.html",
