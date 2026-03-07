@@ -38,6 +38,7 @@
 
 {"key": "修罗磁力","name": "🎈修罗影院 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/修罗影视dm.json"},
 
+{"key": "拖布影视","name": "🎈拖布影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/拖布影视.json"},
 
 {"key": "来看影视","name": "🎈来看影视 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/来看影视.json"},
 
