@@ -1,5 +1,5 @@
 {
-  "作者": "乐哥250519",
+  "作者": "20260318",
   "站名": "4K影视4kvm.site",
   "请求头": "User-Agent$MOBILE_UA",
   "编码": "UTF-8",
@@ -35,12 +35,11 @@
   "多线链接": "href=\"&&\"",
 
 
-  "播放二次截取": "playernotice&&</h2>[替换:</span>>>videourls:表题第1集题接\\&type=hls接表tables]",
-  "播放数组": "videourls:&&tables[替换:{\"name\":>>表题第#,\"url\":>>集题接\\&source=0\\&ep=#}>>接表]",
+  "播放数组": "videourls:&&tables[替换:\"url\":>>\"url\":\\&source=0\\&ep=]||电影--playernotice&&</h2>[替换:</span>>>{\"name\":1,\"url\":\\&type=hls}]",
   "倒序": "0",
-  "播放列表": "表&&表",
-  "播放标题": "题&&题",
-  "播放链接": "接&&接",
+  "播放列表": "{&&}",
+  "播放标题": "\"name\"&&\"[替换::>>第#,>>集]",
+  "播放链接": "\"url\":&&",
   "播放链接前缀": "https://www.4kvm.tv/artplayer?mvsource=0&id=+data-id=\"&&\"",
   "跳转播放链接": "",
   "跳转解析": "",
