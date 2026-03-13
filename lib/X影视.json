@@ -1,0 +1,22 @@
+	{
+
+    "站名": "X影视|最新4K",
+    "主页url": "https://x.gao.gs/",
+    "编码": "UTF-8",
+    "请求头": "User-Agent$MOBILE_UA",
+
+	"二次截取": "module-main module-page&&id=\"page",
+    "数组": "<a&&</a>[包含:/js/]",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "module-item-note\">&&<",
+    "链接": "href=\"&&\"",
+	
+	"搜索url": "https://x.gao.gs/vodsearch/{wd}----------{catePg}---/",
+    "搜索模式": "1",
+
+
+    "简介": "description\" content=\"&&\"",
+	"分类url": "https://x.gao.gs/vodshow/{cateId}-{area}-{by}------{catePg}---{year}/",
+    "分类": "短剧$5#电视剧$2#电影$1#动漫$4#综艺$3"
+}
