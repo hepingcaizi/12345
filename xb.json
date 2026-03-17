@@ -36,6 +36,8 @@
 
 {"key": "X影视","name": "🎈X影视|最新4K| T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/X影视.json"},
 
+{"key": "4K在线","name": "🎈4K在线| T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/4K在线.json"},
+
 {"key": "看戏影视","name": "🎈看戏影视| T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/看戏影视.json"},
 
 {"key": "欧乐影视","name": "🎈欧乐影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/欧乐影视.json"},
@@ -108,12 +110,8 @@
 			"changeable": 1
 		},
 
-{"key": "fyyy","name": "🎈️飞宇影院","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,
-"ext": {
-"分类url": "http://ntfeiyu.com/nt/{cateId}-{catePg}.html",
-"分类": "电影$1#电视剧$2#综艺$3#动漫$4"},
-"header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
-},
+
+{"key": "🎈️飞宇影院","name": "🎈️飞宇影院| T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/飞宇影院.json"},
 
 {"key": "🍙饭团","name": "🎈饭团影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/饭团影视.json"},
 
