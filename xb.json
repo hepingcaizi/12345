@@ -69,6 +69,7 @@
 
 {"key": "FreeOK追剧达人","name": "🎈️FreeOK追剧达人","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/freeok追剧达人.json"},
 
+
 {"key": "555修复图片","name": "🎈️555影视┃app爽剧 ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/555电影.json"},
 
 
