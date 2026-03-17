@@ -86,9 +86,9 @@
 {"key": "多瑙影院app","name": "🎈️多瑙影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/多瑙影院.json"},
 
 
-{"key": "浪策驰影院","name": "🎈️浪策驰影院┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/策驰影视.json"},
+{"key": "浪策驰影院","name": "🎈浪策驰影院┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/策驰影视.json"},
 
-{"key": "vip影视","name": "🎈️vip影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VIP电影.json"},
+{"key": "vip影视","name": "🎈vip影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VIP电影.json"},
 
 {"key": "100听书","name": "☀100听书|秒播☀","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/100听书.json"},
 
@@ -115,17 +115,17 @@
 "header": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0"}
 },
 
-{"key": "🍙饭团","name": "🎈️饭团影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/饭团影视.json"},
+{"key": "🍙饭团","name": "🎈饭团影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/饭团影视.json"},
 
-{"key": "永乐","name": "🎈️永乐影视┃app爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/永乐影视.json"},
+{"key": "永乐","name": "🎈永乐影视┃app爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/永乐影视.json"},
 
-{"key": "vs","name": "🎈️vs影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VS影视.json"},
+{"key": "vs","name": "🎈vs影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VS影视.json"},
 
-{"key": "🎈️libvio","name": "🎈️libvio | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/libvio.json"},
+{"key": "🎈️libvio","name": "🎈libvio | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/libvio.json"},
 
 {"key": "韩剧看看","name": "🎈️韩剧看看 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/韩剧看看.json"},
 
-{"key": "4k影视舱","name": "🎈️4k影视舱 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/4k影视舱.json"},
+{"key": "4k影视舱","name": "🎈4k影视舱 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/4k影视舱.json"},
 
 {"key": "万能影院","name": "🎈️万能影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/万能影院.json"},
 
@@ -133,10 +133,9 @@
 
 {"key": "低端影院","name": "🎈️低端影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/低端影视.json"},
 
-{"key": "Auete","name": "🎈️Auete | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/Auete.json"},
+{"key": "Auete","name": "🎈Auete | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/Auete.json"},
 
-{"key": "APP影院","name": "🎈️APP影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/APP影院.json"},
-
+{"key": "APP影院","name": "🎈APP影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/APP影院.json"},
 
 {"key": "如意影院","name": "🎈️如意影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/如意.json"},
 
