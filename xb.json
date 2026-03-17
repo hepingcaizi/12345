@@ -80,7 +80,7 @@
 {"key": "O乐影视","name": "🎈O乐影视┃app爽剧 ","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/O乐影视.json" },
 
 
-{"key": "🎈️1080┃T爽剧","name": "🎈1080┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/1080.json" },
+{"key": "🎈1080┃T爽剧","name": "🎈1080┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/1080.json" },
 
 
 {"key": "多瑙影院app","name": "🎈️多瑙影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/多瑙影院.json"},
@@ -121,9 +121,10 @@
 
 {"key": "vs","name": "🎈vs影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VS影视.json"},
 
-{"key": "🎈️libvio","name": "🎈libvio | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/libvio.json"},
+{"key": "🎈libvio","name": "🎈libvio | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/libvio.json"},
 
 {"key": "韩剧看看","name": "🎈️韩剧看看 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/韩剧看看.json"},
+
 
 {"key": "4k影视舱","name": "🎈4k影视舱 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/4k影视舱.json"},
 
