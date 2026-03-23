@@ -40,6 +40,9 @@
 
 {"key": "看戏影视","name": "🎈看戏影视| T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/看戏影视.json"},
 
+{"key": "火车太堵","name": "🎈火车太堵| app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/火车太堵.json"},
+
+
 {"key": "欧乐影视","name": "🎈欧乐影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/欧乐影视.json"},
 
 {"key": "CNN影视","name": "🎈CNN影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/CNN影视.json"},
