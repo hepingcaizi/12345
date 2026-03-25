@@ -127,4 +127,5 @@
     "请求头": "User-Agent$MOBILE_UA#Referer$https://pic.vwbycv.cn",
 
   需特殊jar  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()",
-
+  
+"副标题": "<small>&&</small>[含序号:3]+<small>&&</small>[含序号:4]",
