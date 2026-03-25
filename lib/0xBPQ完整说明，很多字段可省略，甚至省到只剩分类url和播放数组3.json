@@ -123,3 +123,8 @@
 "播放请求头": "User-Agent$Mozilla/5.0",
 
 "跳转播放链接":"urlDecode(Base64(varplayer_*url\":\"&&\"))",
+
+    "请求头": "User-Agent$MOBILE_UA#Referer$https://pic.vwbycv.cn",
+
+  需特殊jar  "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click()",
+
