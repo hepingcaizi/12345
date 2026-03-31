@@ -101,10 +101,10 @@
 {"key": "啊哈DJ网","name": "☀啊哈DJ网|秒播☀","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/啊哈DJ网.json"},
 
 {
-			"key": "聚合短剧",
+			"key": "fun聚合短剧",
 			"name": "☀聚合短剧☀",
 			"type": 3,
-			"api": "https://gitee.com/dongge86/files/raw/master/lib/%E8%81%9A%E5%90%88%E7%9F%AD%E5%89%A7.js",
+			"api": "https://gitea.lihaso.com/dong/xb/src/branch/master/lib/聚合短剧.js",
             //"jar": " ",
 			"style": {
 				"type": "rect",
