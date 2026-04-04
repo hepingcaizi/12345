@@ -51,7 +51,7 @@
 
 {"key": "拖布影视","name": "🎈拖布影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/拖布影视.json"},
 
-{"key": "来看影视","name": "🎈来看影视 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/来看影视.json"},
+//{"key": "来看影视","name": "🎈来看影视 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/来看影视.json"},
 
 {"key": "樱花app","name": "🎈樱花动漫 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/樱花动漫.json"},
 
