@@ -3,7 +3,7 @@
 "请求头": "手机",
 "主页url":"https://www.tdgo.shop/",
 "二次截取": "module-main module-page&&<div id=\"page\">",
-"数组": "<a&&</a>[不包含:\"剧集\"#\"短剧\"#\"APP下载\"#\"动漫\"#\"电影\"#\"连续剧\"#\"综艺\"]",
+"数组": "<a&&</a>[包含:/voddetail/]",
 "图片": "data-original=\"&&\"",
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
