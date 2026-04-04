@@ -104,8 +104,8 @@
 			"key": "fun聚合短剧",
 			"name": "☀聚合短剧☀",
 			"type": 3,
-			"api": "https://gitea.lihaso.com/dong/xb/src/branch/master/lib/聚合短剧.js",
-            //"jar": " ",
+			"api": "./lib/聚合短剧.js",
+            "jar": "./lib/xb.jar",
 			"style": {
 				"type": "rect",
 				"ratio": 1.33
