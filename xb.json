@@ -24,10 +24,6 @@
 //{cateId}-{area}-{by}-{class}-{catePg}-{year}{lang}
 
 
-//https://www.ddghd.cc/
-
-
-
 {"key": "麦田影院app","name": "🎈老天师影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/麦田秒播.json"},
 
 {"key": "明星优质埃及影院","name": "🎈明星影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/明星优质埃及影院.json"},
