@@ -2,7 +2,7 @@
 
 #### 配置地址
 
-https://gitee.com/dongge86/xb/raw/master/xb.json
+https://git.weavefun.com:5443/dong/xb/raw/branch/master/xb.json
 
 https://gitea.lihaso.com/dong/xb/src/branch/master/xb.json
 
