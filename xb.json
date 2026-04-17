@@ -20,8 +20,8 @@
 "sites": [
 // 分类 ++
 // 修复所有分类的第一个 detail内容为空
-//分类id---地区--排序-剧情----翻页-----时间-语言
-//{cateId}-{area}-{by}-{class}-{catePg}-{year}{lang}
+//分类id---地区--排序-剧情----翻页-----时间-语言-字母
+//{cateId}-{area}-{by}-{class}-{catePg}-{year}{lang}-{letter}
 
 
 {"key": "麦田影院app","name": "🎈老天师影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/麦田秒播.json"},
