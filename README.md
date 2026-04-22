@@ -19,3 +19,5 @@ http://39.105.5.238:8080/dong/xb/raw/master/xb.json
 
 此网站有验证,可向远程git仓库推送：
 https://gitea.interbiznw.com/dong/xb/raw/branch/master/xb.json
+
+被推送仓库2个 快
