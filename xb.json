@@ -121,10 +121,6 @@
 
 {"key": "vs","name": "🎈vs影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VS影视.json"},
 
-//{"key": "🎈libvio","name": "🎈libvio | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/libvio.json"},
-
-{"key": "韩剧看看","name": "🎈️韩剧看看 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/韩剧看看.json"},
-
 
 {"key": "万能影院","name": "🎈️万能影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/万能影院.json"},
 
