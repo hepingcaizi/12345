@@ -1,8 +1,7 @@
-
 {
     "作者":"20260317",
     "站名":"4K在线-永久发布页https://4kfabuye.top/",
-    "主页url": "https://bbibi.cc/",
+    "主页url": "https://www.bbibb.top/",
     "请求头": "User-Agent$MOBILE_UA",
     "简介":"description\" content=\"&&\"",
 	
@@ -15,9 +14,9 @@
     "播放标题": "title=\"&&\"",
     "播放链接": "href=\"&&\"",
 		
-    "搜索url":"https://bbibi.cc/search.php?page={catePg}&searchword={wd}",
+    "搜索url":"https://www.bbibb.top/search.php?page={catePg}&searchword={wd}",
     "搜索模式":"1",
 	
-    "分类url":"https://www.bbibi.cc/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter={letter};;",    
+    "分类url":"https://www.bbibb.top/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter={letter};;",    
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 }
