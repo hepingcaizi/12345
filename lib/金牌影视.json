@@ -1,4 +1,4 @@
-	{
+{
 	"站名": "🎈️金牌影视🎈",
 	"播放请求头": "User-Agent$Mozilla/5.0",
 	"二次截取": "videoList*[&&]",
@@ -8,7 +8,7 @@
 	"副标题": "vodRemarks\":\"(&&\"",
 	"链接": "\"vodId\":&&,",
 	"链接前缀": "https://www.szrtmjg.cn/detail/",
-	"简介": "简介：&&\"",
+	
 	"搜索url": "https://www.szrtmjg.cn/vod/search/{wd}",
     "搜索副标题": "class=\"boottom\"*<div>&&</div",
 	
@@ -28,5 +28,6 @@
     "分类url":"https://www.szrtmjg.cn/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/page/{catePg}",
     
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4"
+    
 
 }
