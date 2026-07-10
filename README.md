@@ -2,6 +2,8 @@
 
 #### 配置地址
 
+https://rocketgit.com/user/dong/xb/source/tree/branch/master/blob_download/xb.json
+
 https://gitea.lihaso.com/dong/xb/src/branch/master/xb.json
 
 https://gitea.windymuse.com.cn/dongge/xb/raw/branch/master/xb.json #以关闭注册
