@@ -48,7 +48,7 @@
 
 {"key": "CNN影视","name": "🎈CNN影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/CNN影视.json"},
 
-{"key": "修罗磁力","name": "🎈修罗影院 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/修罗影视dm.json"},
+//{"key": "修罗磁力","name": "🎈修罗影院 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/修罗影视dm.json"},
 
 {"key": "拖布影视","name": "🎈拖布影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/拖布影视.json"},
 
@@ -64,7 +64,7 @@
 
 //{"key": "三三影视","name": "🎈️三三影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/三三影视.json"},
 
-{"key": "多多影院app","name": "🎈多多影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/多多.json"},
+//{"key": "多多影院app","name": "🎈多多影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/多多.json"},
 
 
 //{"key": "影视工厂🏭","name": "🎈️搜索工厂 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/影视工厂.json"},
