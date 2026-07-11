@@ -90,7 +90,7 @@
 {"key": "多瑙影院app","name": "🎈️多瑙影院 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/多瑙影院.json"},
 
 
-{"key": "浪策驰影院","name": "🎈浪策驰影院┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/策驰影视.json"},
+//{"key": "浪策驰影院","name": "🎈浪策驰影院┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/策驰影视.json"},
 
 {"key": "vip影视","name": "🎈vip影视|app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VIP电影.json"},
 
