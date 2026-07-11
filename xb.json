@@ -128,7 +128,7 @@
 
 {"key": "🍙饭团","name": "🎈饭团影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/饭团影视.json"},
 
-//{"key": "永乐","name": "🎈永乐影视┃app爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/永乐影视.json"},
+{"key": "永乐","name": "🎈永乐影视┃app爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/永乐影视.json"},
 
 {"key": "vs","name": "🎈vs影视┃T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/VS影视.json"},
 
