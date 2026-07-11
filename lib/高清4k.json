@@ -1,0 +1,57 @@
+{
+    "作者": "20260711",
+	"站名": "4k影视",
+	"编码": "UTF-8",
+    "图片代理": "0",
+    "备用地址": "",
+	"免嗅": "1",
+	"过滤词": "",
+	"主页url": "https://4k-av.com/",
+    "首页": "120",
+    "起始页": "1",	
+	"请求头": "User-Agent$MOBILE_UA#Accept$text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8#accept-language$zh-CN,zh;q=0.8#Connection$keep-alive#Cache-Control$no-cache#referer$https://4k-av.com", 
+	"分类url": "https://4k-av.com/{cateId}/page-{catePg}.html",
+    "分类": "电影$movie#电视剧$tv",
+
+	"header": {"referer": ""},
+    "数组":"class=\"NTMitem\"&&loading=\"auto",
+	"图片": "src=\"&&\"",
+    "标题": "title=\"&&\"",	
+	"副标题": "<span>&&</span>",
+    "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+	"链接前缀": "",
+	"链接": "href=\"&&\"",
+	
+	"影片地区": "中国",
+    "导演": "人民",
+    "主演": "我，我们，你，你们，他，他们",
+    "简介": "<p class=\"cnline\">&&</p>",
+
+    "线路二次截取": "",
+    "线路数组": "",
+    "线路标题": "4k专线",
+    "多线数组": "",
+    "多线链接": "",	
+    
+    "搜索url": "https://4k-av.com/s?m={wd}",
+    "搜索模式": "1",
+    "搜索数组": "",
+    "搜索标题": "",
+    "搜索图片": "",
+    "搜索链接前缀": "",
+    "搜索链接": "",
+  
+	"播放数组": "controls playsinline>&&id=\"MainContent_sidebar[替换:<source src>><a href#<h2>></a>#</h2>*class=\"screenshot\">>空]",
+    "倒序": "0",
+    "播放列表": "<a &&</a>",
+    "播放标题": "title=\"&&\"",
+    "播放链接": "href=\"&&\"",
+    "播放链接前缀": "",
+    "跳转播放链接": "",
+    "跳转解析": ""
+	
+}
+
+
+
+
