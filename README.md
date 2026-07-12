@@ -10,7 +10,7 @@ https://gitea.windymuse.com.cn/dongge/xb/raw/branch/master/xb.json #以关闭注
 
 https://gitea.gimmin.com/dong/xb/raw/branch/master/xb.json #可向远程git仓库推送：
 
-此网站有验证,可向远程git仓库推送：
-https://gitea.interbiznw.com/dong/xb/raw/branch/master/xb.json
+
+https://gitea.interbiznw.com/dong/xb/raw/branch/master/xb.json #此网站有验证,可向远程git仓库推送：
 
 被推送仓库2个dev  root 快
