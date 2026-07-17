@@ -1,7 +1,7 @@
 {
 "作者":"张弘",
-"站名":"555电影",
-"主页url":"https://www.555yy6.com/",
+"站名":"555电影,https://www.55dy27.com/,https://55dy32.com/",
+"主页url":"https://555k36.com/",
 "二次截取":"class=\"module-items&&class=\"fixedGroup",
 "数组":"<a&&module-poster-item-info",
 
@@ -11,7 +11,7 @@
 "标题":"title=\"&&\"",
 "链接":"href=\"&&\"",
 "副标题":"note\">&&</div>",
-"搜索url":"https://www.555yy6.com/vodsearch/{wd}----------{pg}---.html",
+"搜索url":"https://555k36.com/vodsearch/{wd}----------{pg}---.html",
 "搜索模式": "1",
 "搜索数组":"module-item\">&&</a>",
 "搜索图片":"data-original=\"*amp;&&\"[替换:src=>>https://]",
@@ -34,7 +34,7 @@
 //"分类url":"https://zhenfanjixie.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "分类":"Netflix&电影&连续剧&福利&动漫&综艺纪录",
 "分类值": "label/netflix&vodtype/1&vodtype/2&vodtype/124&vodtype/4&vodtype/3",
-"分类url": "https://www.555yy6.com/{cateId}/page/{catePg}.html",
+"分类url": "https://555k36.com/{cateId}/page/{catePg}.html",
 "免嗅":"1",
 "筛选":{
 "1":[
