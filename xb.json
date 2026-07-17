@@ -35,8 +35,9 @@
 
 {"key": "4K在线","name": "🎈4K在线| T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/4K在线.json"},
 
-{"key": "高清4k","name": "🎈高清4k | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/高清4k.json"},
+{"key": "高清4k","name": "🎈4k高清 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/高清4k.json"},
 
+{"key": "爱电影","name": "🎈爱电影| T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/爱电影.json"},
 
 {"key": "看戏影视","name": "🎈看戏影视| T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/看戏影视.json"},
 
