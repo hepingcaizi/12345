@@ -13,4 +13,4 @@ https://gitea.gimmin.com/dong/xb/raw/branch/master/xb.json #可向远程git仓�
 
 https://gitea.interbiznw.com/dong/xb/raw/branch/master/xb.json #此网站有验证,可向远程git仓库推送：推送root
 
-被推送仓库2个dev  root 快
+被推送仓库2个dev  root 快，和两个rocketgit
