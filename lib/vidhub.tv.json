@@ -1,10 +1,9 @@
-
 {
     "作者":"20260317",
     "站名":"vidhub.tv域名列表  https://vidhub3.top 测速中  https://vidhub4.cc 极快(7ms)  https://vidhub.tv 较快(406ms)  https://vidhub.link 较慢(781ms)",
     "主页url": "https://vidhub.tv/",
     "请求头": "User-Agent$MOBILE_UA",
-		
+	"简介": "description\" content=\"&&\"+🛺",
     "搜索url":"https://vidhub.tv/vodsearch/{wd}----------1---.html",
     "搜索模式":"1",
 	
