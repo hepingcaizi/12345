@@ -44,7 +44,7 @@
 {"key": "vidhub","name": "🎈vidhub|T爽剧","type": 3,"api": "csp_XBPQ","jar": "./yt内置.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/vidhub.tv.json"},
 
 
-
+{"key": "悟空繁华影视","name": "🎈悟空繁华影视|T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/悟空繁华影视.json"},
 
 {"key": "看戏影视","name": "🎈看戏影视| T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/看戏影视.json"},
 
