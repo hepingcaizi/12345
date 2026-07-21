@@ -1,12 +1,12 @@
 {
-    "站名": "20260721电影人生-韩剧网-永久网址：dyrs.net dyrs.tv dyrs.app ",
+    "作者": "20260721,
+    "站名": "电影人生-韩剧网-永久网址：dyrs.net dyrs.tv dyrs.app ",
     "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
     "编码": "UTF-8",
     "主页url": "https://viprs4.cc",
     "数组": "class=\"group relative&&</div></div>",
     "标题": "title=\"&&\"",
     "图片": "data-src=\"&&\"",
-    //"副标题": "font-bold px-1.5&&</div>",
     "链接": "href=\"&&\"",
     "嗅探词": "mtm3u8#m3u8#/api/m3u8",
     "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
@@ -18,7 +18,7 @@
     "线路标题": "data-origin=\"&&\"",
 	"线路连接": "href=\"&&\"[替换:amp;>>空]",
 
-    "搜索url": "https://viprs4.cc/s.html?name=a{wd}",
+    "搜索url": "https://viprs4.cc/s.html?name={wd}",
     "搜索模式": "1",
 	
 	"倒序":"0",
