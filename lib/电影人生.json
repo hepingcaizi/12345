@@ -6,12 +6,12 @@
     "数组": "class=\"group relative&&</div></div>",
     "标题": "title=\"&&\"",
     "图片": "data-src=\"&&\"",
-    "副标题": "font-bold px-1.5&&</div>",
+    //"副标题": "font-bold px-1.5&&</div>",
     "链接": "href=\"&&\"",
     "嗅探词": "mtm3u8#m3u8#/api/m3u8",
     "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
     "分类url": "https://viprs4.cc/{cateId}.html?page={catePg}[https://viprs4.cc/{cateId}.html?page=0]",
-
+    "简介": "👉+description\" content=\"&&\"+🛺",
     
     "线路数组二次截取": "id=\"originTabs&&</div>",
     "线路数组": "<a &&</a>",
