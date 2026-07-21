@@ -1,0 +1,34 @@
+{
+    "站名": "20260721电影人生-韩剧网-永久网址：dyrs.net dyrs.tv dyrs.app ",
+    "请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36",
+    "编码": "UTF-8",
+    "主页url": "https://viprs4.cc",
+    "数组": "class=\"group relative&&</div></div>",
+    "标题": "title=\"&&\"",
+    "图片": "data-src=\"&&\"",
+    "副标题": "font-bold px-1.5&&</div>",
+    "链接": "href=\"&&\"",
+    "嗅探词": "mtm3u8#m3u8#/api/m3u8",
+    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$dongman",
+    "分类url": "https://viprs4.cc/{cateId}.html?page={catePg}[https://viprs4.cc/{cateId}.html?page=0]",
+
+    
+    "线路数组二次截取": "id=\"originTabs&&</div>",
+    "线路数组": "<a &&</a>",
+    "线路标题": "data-origin=\"&&\"",
+	"线路连接": "href=\"&&\"[替换:amp;>>空]",
+
+    "搜索url": "https://viprs4.cc/s.html?name=a{wd}",
+    "搜索模式": "1",
+	
+	"倒序":"0",
+	"播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://viprs4.cc/",
+
+	"播放数组": "class=\"seqlist&&document.addEventListener",
+	"播放列表": "<a&&</a>[替换:data-title=\">>shadow-md\">#loading=\"lazy>></button>]",
+	"播放标题": "shadow-*>&&<[替换:\">>]",
+	"播放链接": "href=\"&&\"[替换:origin=*amp;>>空]",
+    "跳转播放链接": "currentUrl = \"&&\"[替换:\/>>/#\\u0026>>&#&amp;>>&][默认:input]",
+    "播放链接前缀": ""
+
+}
