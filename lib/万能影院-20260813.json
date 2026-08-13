@@ -1,0 +1,15 @@
+{
+"作者":"20260813",
+"站名":"万能影院https://wnvod.net/|永久发布地址: https://www.wnvod.top/  wnvvod.top（主）  https://www.wnvod.me  正常  https://www.wnvod.xyz  正常",
+"主页url":"https://www.wnvod.me",
+
+"搜索url":"/vodsearch/{wd}----------{pg}---.html",
+"搜索模式":"1",
+
+	
+"免嗅":"1",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#儿童节目$35#纪录片$20#短视频$26#直播$32",
+//"分类url":"https://www.wnvod.me/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",此模式有验证，以不能用
+"分类url":"https://www.wnvod.me/vodshow/{cateId}-{catePg}.html"
+
+}
