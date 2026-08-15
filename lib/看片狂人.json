@@ -1,0 +1,29 @@
+{    
+
+"作者":"看片狂人https://codepen.io/KungfuF-Loma/full/GgNKJOM,https://sway.office.com/I7shpE33Fu3XIxb6,国内可用地址：https://kpkuang.fyi    备用地址1：https://kpkuang.us    备用地址2：https://kpkuang.cfd    永久短链接：https://duande.cc/kp,发邮件给loma2gm@gmail.com，会自动回复包含最新地址信息的邮件;",
+"站名":"看片狂人",
+
+
+
+"请求头": "User-Agent$MOBILE_UA#Referer$https://img2.doubanio.com",
+"数组":"<li id=&&</li>[替换:cinema_title\">>>title=\"#</span>>>\"</span>]",
+"图片": "data-original=\"&&\"",
+"标题":"title=\"&&\"",
+"链接":"href=\"&&\"",
+"主页url":"https://www.kpkuang.us/",
+"简介": "description\"*content=\"&&",
+
+"搜索模式": "1",
+"搜索url": "https://www.kpkuang.us/vodtype/index-{catePg}.html?wd={wd}",
+
+"播放数组":"<ul&&</ul>[包含:fed-padding fed-col-xs3 fed-col-md2 fed-col-lg1]",
+"播放列表":"<a&&</a>",    
+"播放标题":">&&<",
+"播放链接":"href=\"&&\"",
+
+"分类url":"https://www.kpkuang.us/vodtype/{cateId}/index-{catePg}.html",
+"分类":"电影$1#电视剧$2#综艺$3#动漫$4#动作$6#喜剧$7爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#记录$29#动画$31#国产剧$13#港剧$14日剧$15#欧剧$16#韩剧$23#越南剧$24#泰剧$21#台剧$20#海外剧$30"
+}
+
+
+
