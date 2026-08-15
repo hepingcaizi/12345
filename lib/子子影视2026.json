@@ -1,0 +1,40 @@
+{
+"作者": "20260815",
+"站名":"子子影视-代码同4K影视4kvm.site",
+"主页url":"https://ziziys.net/",
+"请求头": "User-Agent$MOBILE_UA#Referer$https://ziziys.net",
+
+
+"数组": "<a &&</a>[包含:href=\"/play/#data-original=]",
+"标题": "alt=\"&&\"",
+"图片": "https://+amp;src=&&\"",
+"链接":"href=\"&&\"",
+
+"首页": "120",
+"起始页": "1",
+  
+  
+"影片地区": "",
+"导演": "导演</div>*>&&</div>",
+"主演": "主演</div>*>&&</div>",
+"简介": "👉【提醒：请不要相信视频中的广告以免上当受骗！】,+description\" content=\"&&\"",
+
+
+"分类":"电影$1#连续剧$2#动漫$3",
+"分类url": "https://ziziys.net/filter?classify={cateId}&area={area}&year={year}&page={catePg}",
+
+
+"搜索url": "https://ziziys.net/search?q={wd}",
+"搜索模式": "1",
+
+"播放数组": "",
+"倒序": "0",
+"播放列表": "<a &&</a>[包含:/play/]",
+"播放标题": "<span x-show=\"!isEpisodeActive*>&&</span",
+"播放链接": "href=\"&&\"",
+"播放链接前缀": "https://ziziys.net",
+"跳转播放链接": "",
+"跳转解析": ""
+}
+
+
