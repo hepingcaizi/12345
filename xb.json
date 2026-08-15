@@ -37,7 +37,7 @@
 
 {"key": "高清4k","name": "🎈4k高清 | T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/高清4k.json"},
 
-{"key": "vidhub","name": "🎈vidhub|T爽剧","type": 3,"api": "csp_XBPQ","jar": "./yt内置.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/vidhub.tv.json"},
+{"key": "vidhub-tv","name": "🎈vidhub|T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/vidhub.tv.json"},
 
 {"key": "电影人生","name": "🎈电影人生|自动去广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/电影人生.json"},
 
