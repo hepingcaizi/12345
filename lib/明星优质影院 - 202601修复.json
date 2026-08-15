@@ -1,4 +1,5 @@
-{
+
+  {
     "作者": "",
     "站名": "明星影院",
 	"发布页": "发布页uzvod.com  https://hrvod.com https://yevod.com  https://quvod.com     https://bsvod.com",
@@ -9,13 +10,13 @@
     "直接播放": "0",
     "播放请求头": "",
     "过滤词": "",
-    "主页url": "https://uzvod.com/",
+    "主页url": "https://iuzvod.com//",
     "首页": "120",
     "起始页": "1",
 	
 	"分类": "电影&电视剧&综艺&动漫&短剧",
-    "分类值": "vodtype/dianying&vodtype/dianxuju&vodtype/zongyi&vodtype/dongman&vodtype/duanju",	
-	"分类url": "https://uzvod.com/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "分类值": "vodshow/dianying&vodshow/dianxuju&vodshow/zongyi&vodshow/dongman&vodshow/duanju",	
+	"分类url": "https://iuzvod.com//{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 
     "二次截取": "module-items\"&&id=\"page",
     "数组": "lazyloaded&&/a>",
@@ -38,7 +39,7 @@
     "播放链接": "href=\"&&\"",
     "跳转播放链接": "var player_*\"url\":\"&&\"",
     "搜索请求头": "User-Agent$MOBILE_UA",
-    "搜索url": "https://uzvod.com/{wd}----------{pg}---.html",
+    "搜索url": "https://iuzvod.com//{wd}----------{pg}---.html",
     "搜索模式": "1",
     "搜索数组": "lazyload\"&&/a>",
     "搜索标题": "title=\"&&\"",
