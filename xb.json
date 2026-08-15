@@ -41,8 +41,6 @@
 
 {"key": "电影人生","name": "🎈电影人生|自动去广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/电影人生.json"},
 
-{"key": "vidhub","name": "🎈vidhub|T爽剧","type": 3,"api": "csp_XBPQ","jar": "./yt内置.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/vidhub.tv.json"},
-
 {"key": "子子影视2026","name": "🎈子子影视|T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/子子影视2026.json"},
 
 {"key": "看片kr","name": "🎈看片狂人|T爽剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/看片狂人.json"},
