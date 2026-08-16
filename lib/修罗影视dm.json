@@ -1,6 +1,7 @@
 {
 
-         //最新域名xlys.me    https://xl01.com.de/
+         //最新域名：v.xl.in.ua v.xl01.eu.cc v.xl02.eu.cc v.xl01.cc.ua    https://www.xlys02.com
+		"主页url": "https://www.xlys02.com",
         "数组": "card card-sm card-link&&</div>",
         "图片": "src=\"&&\"",
         "标题": "mb-0 card-title text-truncate\">&&<",
@@ -13,6 +14,6 @@
         "播放标题": "text-muted\">&&</td>[不包含:网盘下载]",
          //此处必须是跳转播放链接
         "跳转播放链接": "href=\"&&\"",
-        "分类url": "https://v.xlys.ltd.ua/s/all/{catePg}?type={cateId};;d0",
+        "分类url": "https://www.xlys02.com/s/all/{catePg}?type={cateId};;d0",
         "分类": "电影$0#电视剧$1"
       }
