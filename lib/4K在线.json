@@ -15,7 +15,8 @@
 		
     "搜索url":"https://www.bbibb.top/search.php?page={catePg}&searchword={wd}",
     "搜索模式":"1",
-	
+  
+	"类型": "动作片$5#爱情片$6#科幻片$6#恐怖片$7||大陆$13#欧美$15",
     "分类url":"https://www.bbibb.top/list/?{cateId}-{catePg}.html;;",    
     "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
 }
