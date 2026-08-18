@@ -25,7 +25,7 @@
 //{cateId}-{area}-{by}-{class}-{catePg}-{year}{lang}-{letter}
 
 //"ratio": 1.33  1.6  1.65  1.49  0.7
-{"key": "老天师影院app","name": "🎈老天师影院 | app秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/1080.json"},
+{"key": "老天师影院app","name": "🎈天师影视🎈","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/1080.json"},
 
 {"key": "明星优质埃及影院2026","name": "🎈明星影院|app秒播","type": 3,"api": "csp_XBPQ","jar": "./yt内置.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/明星优质影院 - 202601修复.json"},
 
@@ -282,7 +282,7 @@
   ],
     "lives": [
     {
-      "name": "冰茶",
+      "name": "冰茶直播",
       "type": 0,
       "url": "https://bc.188766.xyz/?ip=&mishitong=true&mima=mianfeibuhuaqian&json=true",
       "timeout": 10,
