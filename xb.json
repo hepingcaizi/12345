@@ -44,7 +44,7 @@
 
 {"key": "老天师影院app","name": "🎈天师影视🎈","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/1080.json"},
 
-//播放不了影库{"key": "明星优质埃及影院2026","name": "🎈明星影院|app秒播","type": 3,"api": "csp_XBPQ","jar": "./yt内置.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/明星优质影院 - 202601修复.json"},
+{"key": "明星优质埃及影院2026","name": "🎈明星影院|app秒播","type": 3,"api": "csp_XBPQ","jar": "./yt内置.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/明星优质影院 - 202601修复.json"},
 
 {"key": "4K影视4kvm.site","name": "🎈4K影视 | T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/4K影视20260402.json"},
 
