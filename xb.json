@@ -104,29 +104,7 @@
 
 {"key": "啊哈DJ网","name": "☀啊哈DJ网|秒播☀","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/啊哈DJ网.json"},
 
-{
-
-			"key": "fun聚合短剧",
-
-			"name": "☀聚合短剧☀",
-
-			"type": 3,
-
-			"api": "./lib/聚合短剧.js",
-
-            //"jar": "./lib/xb.jar",
-
-			"style": {
-
-				"type": "rect",
-
-				"ratio": 1.33
-
-			},
-
-			"changeable": 1
-
-		},
+{"key": "fun聚合短剧","name": "☀聚合短剧☀","type": 3,"api": "./lib/聚合短剧.js","style": {"type": "rect","ratio": 1.33},"changeable": 1}, //"jar": "./lib/xb.jar"
 
 {"key": "🎈️飞宇影院","name": "🎈️飞宇影院| T 秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/飞宇影院.json"},
 
