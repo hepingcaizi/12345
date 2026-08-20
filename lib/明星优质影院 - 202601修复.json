@@ -1,4 +1,4 @@
-  {
+   {
     "作者": "",
     "站名": "明星影院",
 	"发布页": "发布页uzvod.com  https://hrvod.com https://yevod.com  https://quvod.com     https://bsvod.com",
@@ -14,8 +14,9 @@
     "起始页": "1",
 	
 	"分类": "电影&电视剧&综艺&动漫&短剧",
-    "分类值": "vodshow/dianying&vodshow/dianxuju&vodshow/zongyi&vodshow/dongman&vodshow/duanju",	
-	"分类url": "https://iuzvod.com/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "分类值": "dianying&dianxuju&zongyi&dongman&duanju",	
+	//"分类url": "https://iuzvod.com/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+    "分类url": "https://iuzvod.com/vodtype/{cateId}.html",
 
     // "二次截取": "module-items\"&&id=\"page",
     "数组": "class=\"module-item\">&&</a></div>",
@@ -23,6 +24,7 @@
     "图片": "data-src=\"&&\"",
     "副标题": "class\">&&<",
     "链接": "href=\"&&\"[替换:voddetail>>vodplay#-1-1.html>>.html]",
+	"链接": "href=\"&&\"",
     "影片年代": "-----------*.html\">&&</",
     "影片地区": "video:area\" content=\"&&\"",
     "影片类型": "video:class\" content=\"&&\"",
@@ -54,3 +56,4 @@
     "排序": "时间&人气&评分",
     "排序值": "time&hits&score"
 }
+  
