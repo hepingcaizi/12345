@@ -17,8 +17,8 @@
     "分类值": "vodshow/dianying&vodshow/dianxuju&vodshow/zongyi&vodshow/dongman&vodshow/duanju",	
 	"分类url": "https://iuzvod.com/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
 
-    "二次截取": "module-items\"&&id=\"page",
-    "数组": "lazyloaded&&/a>",
+    // "二次截取": "module-items\"&&id=\"page",
+    "数组": "class=\"module-item\">&&</a></div>",
     "标题": "title=*>&&<",
     "图片": "data-src=\"&&\"",
     "副标题": "class\">&&<",
